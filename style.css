@@ -1,0 +1,113 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root {
+    --font1: Verdana, Geneva, Tahoma, sans-serif;
+    --font2: 'Passion One', cursive;
+    --font3: 'Sriracha', cursive;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    min-height: 100vh; /* or 100% */
+    font-family: var(--font1);
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    color: #fff;
+}
+
+header > h1 {
+    color: #fff;
+    padding-top: 50px;
+    font-variant: small-caps;
+    font-family: var(--font2);
+    font-size: 10vw;
+}
+
+header a {
+    font-weight: bolder;
+}
+
+header > p {
+    color: #cecece;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+aside {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 3.5vw;
+}
+
+aside > p {
+    padding-bottom: 2em;
+}
+
+aside.normal {
+    background-color: #fff;
+    color: black;
+}
+
+aside.img {
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
+    background-repeat: repeat-y;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+aside.img > p {
+    display: inline-block;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 0px black;
+}
+
+aside#firstimg {
+    background-image: url("images/background001.jpg");
+    background-position: center center;
+}
+
+aside#segimg {
+    background-image: url("images/background002.jpg");
+    background-position: center center;
+
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+footer > p {
+    color: hsla(0, 0%, 100%, 0.781);
+    text-align: center;
+    font-size: 18px;
+}
+
+footer a {
+    font-weight: bolder;
+}
