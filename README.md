@@ -6,4 +6,4 @@
 
 # English 🇨🇦 🇦🇺
 ## Website of Cordel Moderno
- This is a website who I have developed recently from Cordel Moderno by Milton Duarte recently in the HTML and CSS course of Professor Guanabara for the Video Course. Here I put into practice the knowledge acquired in Chapter 19 about Background Images using Parallax effect and it was quite challenging for me to make the site responsive, since it is an essential thing for anything, I tried my best to make my account and then visualize the resolution of the Project in the course.
+ This is a website who I have developed recently from Cordel Moderno by Milton Duarte recently in the HTML and CSS course of Professor Guanabara for the Video Course. Here I put into practice the knowledge acquired in Chapter 19 about Background Images using Parallax effect and it was quite challenging for me to make the site responsive, since it is an essential thing for anything, I tried my best to do my best and then visualize the resolution of the Project in the course.
