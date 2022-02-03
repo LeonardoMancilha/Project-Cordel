@@ -2,7 +2,7 @@
 
 # Portuguese 🇧🇷 🇵🇹
 ## Cordel Moderno
- Este é um site que eu desenvolvi recentemente do Cordel Moderno do Milton Duarte no curso de HTML e CSS do professor Guanabara para o Curso em Video. Aqui eu coloco em prática os conhecimentos adquiridos no Capítulo 19 sobre Imagens de Fundo usando efeito Parallax e foi bastante desafiador para mim deixar o site responsivo, visto que, é uma coisa essencial para qualquer coisa, tentei ao máximo fazer minha conta e depois visualizar a resolução do Projeto no curso. 
+ Este é um site que eu desenvolvi recentemente do Cordel Moderno do Milton Duarte no curso de HTML e CSS do professor Guanabara para o Curso em Video. Aqui eu coloco em prática os conhecimentos adquiridos no Capítulo 19 sobre Imagens de Fundo usando efeito Parallax e foi bastante desafiador para mim deixar o site responsivo, visto que, é uma coisa essencial para qualquer coisa, tentei ao máximo fazer meu melhor e depois visualizar a resolução do Projeto no curso. 
 
 # English 🇨🇦 🇦🇺
 ## Website of Cordel Moderno
