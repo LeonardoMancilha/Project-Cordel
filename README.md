@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/74615811/176934508-1c19e805-da73-408e-
 ## 📁 Acesso ao projeto / Access the project
 
 Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Project-Cordel/find/main). <br>
-English: You can access the project files by clicking [aqui](https://github.com/LeonardoMancilha/Project-Cordel/find/main).
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Project-Cordel/find/main).
 
 ## 📝 Licença / License
 
