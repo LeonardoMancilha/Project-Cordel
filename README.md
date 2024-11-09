@@ -2,17 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/74615811/176932567-647a35c8-fb5d-4381-9162-6fef3b31c4df.png" alt="Cordel Moderno">
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
-<img src="https://user-images.githubusercontent.com/74615811/176503364-50b5ee48-3d6d-4ab3-ae4b-e6fb7724296b.svg">
-<img src="https://user-images.githubusercontent.com/74615811/176503773-dd0bc4ec-fbde-4e70-80d6-9695ff5ef67c.svg">
-<img src="https://img.shields.io/badge/Done%20by-Leonardo Machado-%df0000">
-</p>
-
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
-</p>
-
 ## 💻 Descrição do projeto / Description of the project
 
 <h2>Portuguese</h2> Este é um site que eu desenvolvi recentemente do Cordel Moderno do Milton Duarte no curso de HTML e CSS do professor Guanabara para o Curso em Video. Aqui eu coloco em prática os conhecimentos adquiridos no Capítulo 19 sobre Imagens de Fundo usando efeito Parallax e foi bastante desafiador para mim deixar o site responsivo, visto que, é uma coisa essencial para qualquer coisa, tentei ao máximo fazer meu melhor e depois visualizar a resolução do Projeto no curso. <br>
